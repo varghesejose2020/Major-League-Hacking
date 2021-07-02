@@ -1,6 +1,7 @@
  # MLH *Mascot*
 
 
+- **2022 season** - ??
 
 - **2021 season** - Ellie the Electric Elephant
 
