@@ -1,12 +1,12 @@
-# MLH *Mascot*
+# MLH **Mascot**
 
 
-- **2022 season** - Frankie the file system ferret
 
-
-- **2021 season** - Ellie the Electric Elephant
-
-- **2020 season** - Ducky the Debugger
-- **2019 season** - Crypto the Chameleon
-- **2018 season** - Bit the Bot
-- **2017 sesson** - Ada
+| Hackathon Season| Mascot name| Mascot Image  |
+| ------------- |:-------------:| -----:|
+| **2022**| Frankie the file system ferretd|  <img src="https://github.com/varghesejose2020/Major-League-Hacking/blob/main/Information/Mascot/frankie.png" width="200px"> |
+| **2021**| Ellie the Electric Elephant|    |
+| **2020** | Ducky the Debugger|    |
+| **2019** | Crypto the Chameleon|    |
+| **2018** | Bit the Bot|    |
+| **2017** | Ada   |    |
