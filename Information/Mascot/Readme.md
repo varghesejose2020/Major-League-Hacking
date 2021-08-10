@@ -24,7 +24,7 @@
 ````
   https://mlh.io/seasons/2022/events
 
-</details>
+
   
   
   
