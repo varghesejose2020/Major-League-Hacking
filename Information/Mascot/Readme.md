@@ -26,15 +26,6 @@
 
 </details>
   
-  <br>
-  
-  <summary>fellowship informations of MLH</summary>
-<br>
-  
-````
-  https://fellowship.mlh.io/
-
-</details>
   
   
   
