@@ -7,6 +7,7 @@
 
 | Hackathon Season| Mascot name| Mascot Image  |
 | :-------------: |:-------------:| :-----:|
+| **2024**| Hanson the Hardware Hippo| |
 | **2023**| Gene,the Glitchy Giraffe| <img src="https://github.com/varghesejose2020/Major-League-Hacking/blob/main/Information/Mascot/genie.jpg" width="200px" height="200">   |
 | **2022**| Frankie the file system ferret|  <img src="https://github.com/varghesejose2020/Major-League-Hacking/blob/main/Information/Mascot/frankie.png" width="200px"> |
 | **2021**| Ellie the Electric Elephant|   <img src="https://github.com/varghesejose2020/Major-League-Hacking/blob/main/Information/Mascot/2021.jpg" width="200px"> |
